@@ -9,7 +9,7 @@ In order to report on Platform datasets, you first have to establish a connectio
 
 >[!IMPORTANT] You can combine multiple Platform datasets into a single connection.
 
-1. Go to [https://www.analytics.adobe.com](https://www.analytics.adobe.com).
+1. Go to [https://analytics.adobe.com](https://analytics.adobe.com).
 
 1. Click the **[!UICONTROL Connections]** tab.
 
